@@ -1,0 +1,1 @@
+{"version":3,"file":"datastore.module.js","sourceRoot":"","sources":["../../src/datastore/datastore.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,2DAAuD;AAMvD,IAAa,eAAe,GAA5B,MAAa,eAAe;CAAG,CAAA;AAAlB,eAAe;IAJ3B,IAAA,eAAM,EAAC;QACN,OAAO,EAAE,CAAC,oCAAgB,CAAC;QAC3B,SAAS,EAAE,CAAC,oCAAgB,CAAC;KAC9B,CAAC;GACW,eAAe,CAAG;AAAlB,0CAAe"}
